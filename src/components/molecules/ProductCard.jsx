@@ -36,7 +36,7 @@ const ProductCard = ({ id, model, imgUrl, price, onClick }) => {
             {price ? (
               <span className={'text-lg font-semibold text-gray-700'}>${price}</span>
             ) : (
-              <span className={'text-sm text-gray-400 italic'}>{t('commons.no-price')}</span>
+              <span className={'text-sm text-gray-400 italic'}>{t('common.no-price')}</span>
             )}
           </div>
         </div>
