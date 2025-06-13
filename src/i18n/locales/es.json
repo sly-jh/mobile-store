@@ -1,0 +1,22 @@
+{
+	"common": {
+		"back": "Volver",
+		"back-to-list": "Volver al listado",
+		"no-price": "Sin precio",
+		"not-found": "Producto no encontrado.",
+		"price": "Precio",
+		"search-placeholder": "¿Qué estás buscando hoy?"
+	},
+	"offers-discount": "¡Oferta de descuento!",
+	"offers-phones": "¡Ofertas en móviles!",
+	"offers-accessories": "¡Ofertas en accesorios!",
+	"product": {
+		"cpu": "CPU",
+		"ram": "RAM",
+		"os": "Sistema Operativo",
+		"screen": "Pantalla",
+		"battery": "Batería",
+		"camera": "Cámaras",
+		"dimensions": "Dimensiones"
+	}
+}
