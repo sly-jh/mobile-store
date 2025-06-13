@@ -14,3 +14,10 @@ En un siguiente paso he creado un layout para mantener coherencia con los espaci
 Para gestionar el estado de la aplicación he usado Redux para centralizar acciones que pueden ir escalando y volviéndose más complejos. Como es el caso de las ' Acciones Producto'.
 
 Los scripts son funcionales.
+
+![image](https://github.com/user-attachments/assets/8855a731-1c1c-4a1d-a6a0-e1701c2db564)
+
+![image](https://github.com/user-attachments/assets/7d4eb292-1d70-481f-92ef-8396aa62cac6)
+
+![image](https://github.com/user-attachments/assets/c9b6d20f-c5ee-4167-964c-2463bb86984d)
+
